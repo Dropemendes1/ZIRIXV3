@@ -29,5 +29,5 @@ AddEventHandler("vrp_watercooler:use",function()
                 end)
             end
         end
-    end
-end)
+    
+)
